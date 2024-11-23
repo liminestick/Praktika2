@@ -1,0 +1,552 @@
+{
+    "Кольраби": {
+        "average_price": 3846.14,
+        "max_price": 9939,
+        "min_price": 285
+    },
+    "Камчатская": {
+        "average_price": 4787.11,
+        "max_price": 8689,
+        "min_price": 382
+    },
+    "Мороженое": {
+        "average_price": 3951.0,
+        "max_price": 8250,
+        "min_price": 1375
+    },
+    "Патиссон": {
+        "average_price": 4295.27,
+        "max_price": 9444,
+        "min_price": 846
+    },
+    "Evian": {
+        "average_price": 4376.74,
+        "max_price": 9427,
+        "min_price": 1280
+    },
+    "Лардон": {
+        "average_price": 6167.1,
+        "max_price": 8952,
+        "min_price": 3624
+    },
+    "Массандра": {
+        "average_price": 4890.05,
+        "max_price": 9968,
+        "min_price": 548
+    },
+    "Каша из дробленой пшеницы": {
+        "average_price": 4965.8,
+        "max_price": 8454,
+        "min_price": 884
+    },
+    "Цукини": {
+        "average_price": 4926.42,
+        "max_price": 9991,
+        "min_price": 588
+    },
+    "Бекон": {
+        "average_price": 5669.75,
+        "max_price": 9086,
+        "min_price": 281
+    },
+    "Голландский сыр": {
+        "average_price": 4689.82,
+        "max_price": 9722,
+        "min_price": 415
+    },
+    "Абрикос": {
+        "average_price": 4036.82,
+        "max_price": 9699,
+        "min_price": 628
+    },
+    "Портулак": {
+        "average_price": 2625.0,
+        "max_price": 3994,
+        "min_price": 147
+    },
+    "Грейпфрут": {
+        "average_price": 5399.4,
+        "max_price": 8643,
+        "min_price": 1033
+    },
+    "Свекла": {
+        "average_price": 4667.8,
+        "max_price": 9070,
+        "min_price": 136
+    },
+    "Глинтвейн": {
+        "average_price": 4773.8,
+        "max_price": 9425,
+        "min_price": 741
+    },
+    "Шаверма": {
+        "average_price": 5255.92,
+        "max_price": 9680,
+        "min_price": 1498
+    },
+    "Топлёное молоко": {
+        "average_price": 4665.0,
+        "max_price": 8521,
+        "min_price": 179
+    },
+    "Перец болгарский": {
+        "average_price": 6300.1,
+        "max_price": 9687,
+        "min_price": 478
+    },
+    "Ямс": {
+        "average_price": 3571.62,
+        "max_price": 8006,
+        "min_price": 518
+    },
+    "Топинамбур": {
+        "average_price": 4370.71,
+        "max_price": 8771,
+        "min_price": 1721
+    },
+    "Пакеты для микроволновки": {
+        "average_price": 4531.62,
+        "max_price": 9336,
+        "min_price": 229
+    },
+    "Панчетта": {
+        "average_price": 4248.6,
+        "max_price": 7779,
+        "min_price": 348
+    },
+    "Капуста белокочанная": {
+        "average_price": 4604.67,
+        "max_price": 9570,
+        "min_price": 461
+    },
+    "Феодосийская": {
+        "average_price": 4633.64,
+        "max_price": 9098,
+        "min_price": 246
+    },
+    "Подставки под столовые приборы": {
+        "average_price": 5271.05,
+        "max_price": 9570,
+        "min_price": 489
+    },
+    "Помело": {
+        "average_price": 6158.0,
+        "max_price": 9937,
+        "min_price": 1716
+    },
+    "Кухонные ножи": {
+        "average_price": 3249.94,
+        "max_price": 9253,
+        "min_price": 346
+    },
+    "Пастила": {
+        "average_price": 5665.47,
+        "max_price": 9449,
+        "min_price": 1871
+    },
+    "Королевская": {
+        "average_price": 6099.1,
+        "max_price": 9114,
+        "min_price": 120
+    },
+    "Плавленые сырки": {
+        "average_price": 5384.27,
+        "max_price": 9341,
+        "min_price": 570
+    },
+    "Кабачок": {
+        "average_price": 4762.33,
+        "max_price": 8513,
+        "min_price": 443
+    },
+    "Батат": {
+        "average_price": 4594.23,
+        "max_price": 7571,
+        "min_price": 257
+    },
+    "Пакеты для походов": {
+        "average_price": 5846.2,
+        "max_price": 9977,
+        "min_price": 1174
+    },
+    "Мандарин": {
+        "average_price": 5653.74,
+        "max_price": 8870,
+        "min_price": 671
+    },
+    "Освежитель воздуха": {
+        "average_price": 4959.86,
+        "max_price": 9612,
+        "min_price": 335
+    },
+    "Прошутто": {
+        "average_price": 4595.12,
+        "max_price": 7896,
+        "min_price": 772
+    },
+    "Репа": {
+        "average_price": 3948.28,
+        "max_price": 9602,
+        "min_price": 148
+    },
+    "Косулятина": {
+        "average_price": 5035.0,
+        "max_price": 8585,
+        "min_price": 743
+    },
+    "Гусиные потроха": {
+        "average_price": 5916.54,
+        "max_price": 9183,
+        "min_price": 1197
+    },
+    "Подольская": {
+        "average_price": 5091.63,
+        "max_price": 9636,
+        "min_price": 486
+    },
+    "Каша из манной крупы": {
+        "average_price": 4890.25,
+        "max_price": 9788,
+        "min_price": 308
+    },
+    "Рамбутан": {
+        "average_price": 5654.12,
+        "max_price": 9664,
+        "min_price": 916
+    },
+    "Инжир": {
+        "average_price": 5650.58,
+        "max_price": 9792,
+        "min_price": 570
+    },
+    "Российский сыр": {
+        "average_price": 3743.38,
+        "max_price": 8854,
+        "min_price": 391
+    },
+    "Киви": {
+        "average_price": 5498.04,
+        "max_price": 9822,
+        "min_price": 366
+    },
+    "Пакеты для дня рождения": {
+        "average_price": 4844.4,
+        "max_price": 8586,
+        "min_price": 641
+    },
+    "Тмин молотый": {
+        "average_price": 5417.63,
+        "max_price": 9889,
+        "min_price": 379
+    },
+    "Мягкие игрушки": {
+        "average_price": 4938.44,
+        "max_price": 9748,
+        "min_price": 252
+    },
+    "Катык": {
+        "average_price": 4790.36,
+        "max_price": 9866,
+        "min_price": 851
+    },
+    "Смородина": {
+        "average_price": 4325.07,
+        "max_price": 9600,
+        "min_price": 101
+    },
+    "Каша из ячменя": {
+        "average_price": 5422.88,
+        "max_price": 9313,
+        "min_price": 1621
+    },
+    "Щавель": {
+        "average_price": 5376.25,
+        "max_price": 7725,
+        "min_price": 358
+    },
+    "Кокос": {
+        "average_price": 4223.33,
+        "max_price": 7557,
+        "min_price": 285
+    },
+    "Бадьян": {
+        "average_price": 4747.8,
+        "max_price": 9857,
+        "min_price": 103
+    },
+    "Тыква": {
+        "average_price": 4722.5,
+        "max_price": 9619,
+        "min_price": 953
+    },
+    "Копчености": {
+        "average_price": 4593.75,
+        "max_price": 8933,
+        "min_price": 861
+    },
+    "Молочный коктейль": {
+        "average_price": 5951.0,
+        "max_price": 9817,
+        "min_price": 1950
+    },
+    "Малина": {
+        "average_price": 5566.33,
+        "max_price": 9007,
+        "min_price": 756
+    },
+    "Пакеты для ярмарки": {
+        "average_price": 3701.0,
+        "max_price": 5755,
+        "min_price": 595
+    },
+    "Сыр": {
+        "average_price": 5184.25,
+        "max_price": 9483,
+        "min_price": 268
+    },
+    "Каша из ржи": {
+        "average_price": 4153.8,
+        "max_price": 8983,
+        "min_price": 248
+    },
+    "Помидор": {
+        "average_price": 4054.62,
+        "max_price": 7404,
+        "min_price": 1033
+    },
+    "Крыжовник": {
+        "average_price": 4404.75,
+        "max_price": 8607,
+        "min_price": 1021
+    },
+    "Каша из дробленной гречки": {
+        "average_price": 5835.6,
+        "max_price": 9751,
+        "min_price": 498
+    },
+    "Формы для выпечки": {
+        "average_price": 4974.38,
+        "max_price": 8358,
+        "min_price": 1422
+    },
+    "Евпатория": {
+        "average_price": 5329.57,
+        "max_price": 9754,
+        "min_price": 907
+    },
+    "Моцарелла": {
+        "average_price": 5365.0,
+        "max_price": 9804,
+        "min_price": 682
+    },
+    "Кострец": {
+        "average_price": 4110.17,
+        "max_price": 7750,
+        "min_price": 142
+    },
+    "Каша из гречки зеленой": {
+        "average_price": 5269.93,
+        "max_price": 9144,
+        "min_price": 331
+    },
+    "Кружки": {
+        "average_price": 5515.28,
+        "max_price": 9998,
+        "min_price": 249
+    },
+    "Буженина": {
+        "average_price": 6117.0,
+        "max_price": 9822,
+        "min_price": 2853
+    },
+    "Простокваша": {
+        "average_price": 6430.3,
+        "max_price": 9661,
+        "min_price": 1231
+    },
+    "Лук-порей": {
+        "average_price": 3928.2,
+        "max_price": 5544,
+        "min_price": 1716
+    },
+    "Студень": {
+        "average_price": 4906.53,
+        "max_price": 7992,
+        "min_price": 667
+    },
+    "Куриные бедра": {
+        "average_price": 7614.5,
+        "max_price": 9136,
+        "min_price": 5280
+    },
+    "Соус соевый": {
+        "average_price": 5279.5,
+        "max_price": 9866,
+        "min_price": 146
+    },
+    "Апельсин": {
+        "average_price": 4142.83,
+        "max_price": 8313,
+        "min_price": 721
+    },
+    "Ульяновская": {
+        "average_price": 6153.6,
+        "max_price": 8648,
+        "min_price": 4298
+    },
+    "Мацони": {
+        "average_price": 4265.07,
+        "max_price": 8503,
+        "min_price": 268
+    },
+    "Карамбола": {
+        "average_price": 1008.8,
+        "max_price": 2148,
+        "min_price": 319
+    },
+    "Редис": {
+        "average_price": 5644.45,
+        "max_price": 9319,
+        "min_price": 216
+    },
+    "Мята перечная сушеная": {
+        "average_price": 6422.53,
+        "max_price": 8953,
+        "min_price": 354
+    },
+    "Эскалоп": {
+        "average_price": 6113.0,
+        "max_price": 9466,
+        "min_price": 2164
+    },
+    "Фанта": {
+        "average_price": 3201.6,
+        "max_price": 8721,
+        "min_price": 344
+    },
+    "Пакеты для конференции": {
+        "average_price": 7458.67,
+        "max_price": 9832,
+        "min_price": 2150
+    },
+    "Сырокопченая колбаса": {
+        "average_price": 3364.32,
+        "max_price": 9856,
+        "min_price": 108
+    },
+    "Сырой арахис": {
+        "average_price": 5283.69,
+        "max_price": 9241,
+        "min_price": 856
+    },
+    "Эмменталь": {
+        "average_price": 5091.14,
+        "max_price": 9803,
+        "min_price": 384
+    },
+    "Пастрома": {
+        "average_price": 4830.3,
+        "max_price": 8752,
+        "min_price": 526
+    },
+    "Половники": {
+        "average_price": 4618.07,
+        "max_price": 9876,
+        "min_price": 937
+    },
+    "Хурма": {
+        "average_price": 5477.17,
+        "max_price": 9189,
+        "min_price": 162
+    },
+    "7UP": {
+        "average_price": 6245.92,
+        "max_price": 9998,
+        "min_price": 1784
+    },
+    "Спаржа": {
+        "average_price": 6005.22,
+        "max_price": 9105,
+        "min_price": 1958
+    },
+    "Салфетки сухие": {
+        "average_price": 3943.5,
+        "max_price": 6289,
+        "min_price": 1172
+    },
+    "Зеленый перец молотый": {
+        "average_price": 4607.33,
+        "max_price": 7606,
+        "min_price": 571
+    },
+    "Тартар": {
+        "average_price": 4839.22,
+        "max_price": 7912,
+        "min_price": 1353
+    },
+    "Чечевица": {
+        "average_price": 4419.44,
+        "max_price": 9827,
+        "min_price": 1169
+    },
+    "Пакеты многоразовые": {
+        "average_price": 4748.27,
+        "max_price": 9869,
+        "min_price": 1431
+    },
+    "Петрушка корневая": {
+        "average_price": 4535.69,
+        "max_price": 9960,
+        "min_price": 341
+    },
+    "Чеддер": {
+        "average_price": 6547.67,
+        "max_price": 9611,
+        "min_price": 3647
+    },
+    "Балык": {
+        "average_price": 4845.4,
+        "max_price": 9766,
+        "min_price": 129
+    },
+    "Голова": {
+        "average_price": 4954.3,
+        "max_price": 9992,
+        "min_price": 468
+    },
+    "Матрасы": {
+        "average_price": 5308.75,
+        "max_price": 8461,
+        "min_price": 2328
+    },
+    "Лен семена": {
+        "average_price": 4513.0,
+        "max_price": 6506,
+        "min_price": 1583
+    },
+    "Рагу": {
+        "average_price": 5966.54,
+        "max_price": 9559,
+        "min_price": 1622
+    },
+    "Персик": {
+        "average_price": 4311.62,
+        "max_price": 9413,
+        "min_price": 122
+    },
+    "Бамия": {
+        "average_price": 3761.88,
+        "max_price": 8832,
+        "min_price": 318
+    },
+    "Ставропольская": {
+        "average_price": 5321.6,
+        "max_price": 8619,
+        "min_price": 438
+    },
+    "Mountain Dew": {
+        "average_price": 4521.38,
+        "max_price": 8924,
+        "min_price": 2119
+    }
+}
